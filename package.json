@@ -16,7 +16,7 @@
     "webpack-cli": "^3.3.7"
   },
   "dependencies": {
-    "foo": "0.0.7",
+    "foo": "1.0.0",
     "jquery": "^3.4.1",
     "lodash": "^4.17.15"
   }
